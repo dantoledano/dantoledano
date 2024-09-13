@@ -5,9 +5,7 @@ I'm a dedicated **Computer Science student** with a passion for learning and gro
 
 - 🎓 **Education**: Currently pursuing a degree in Computer Science at the Academic College of Tel Aviv-Yaffa.
 - 🌐 **Continuous Learning**: Actively expanding my knowledge through Udemy courses in my free time.
-- 💻 **Career Aspiration**: Eager to secure my first position as a Student Software Engineer.
 
-### Let's Connect 🤝
 - 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dantoledano/)
 
 
